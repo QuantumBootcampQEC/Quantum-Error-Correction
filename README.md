@@ -11,7 +11,10 @@ Quantum error correction allows us to untilize the great potential of quantum co
 
 ## QUANTUM ERROR CORRECTION CHALLENGES
 1- Quantum computers face different types of errors than classical computers.
+
+
 2- Quantum information is very secure and cannot be duplicated.
+
 3- To reduce the loss of information, we have targeted detecting and correcting errors instead of mitigating possible errors.
 
 ## ERROR CORRECTION CIRCUIT
