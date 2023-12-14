@@ -22,11 +22,11 @@ command to run if program contains helper info
 
 ## Authors
 
-Abdulaziz Alnasser
-Budur Alkhalawi
-Dalal Alwadah
-Raghad Alayfan
-Salma Almalaq
+* Abdulaziz Alnasser
+* Budur Alkhalawi
+* Dalal Alwadah
+* Raghad Alayfan
+* Salma Almalaq
 
 
 ## Version History
