@@ -16,7 +16,8 @@ Quantum error correction allows us to untilize the great potential of quantum co
 
 ## ERROR CORRECTION CIRCUIT
 
-<img width="1235" alt="image" src="https://github.com/QuantumBootcampQEC/Quantum-Error-Correction/assets/26482897/aa86ebed-7956-42f7-bebe-a148fcb19d74">
+![image](https://github.com/QuantumBootcampQEC/Quantum-Error-Correction/assets/106312306/e90e4ffe-6c27-46e3-a835-5f2af6d74c70)
+
 
 ## RESULTS
 To test the code, have sent the message "0" for 1024 times and compared the results with and without applying the correction code
