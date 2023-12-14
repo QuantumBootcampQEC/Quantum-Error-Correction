@@ -1,24 +1,37 @@
 # Quantum-Error-Correction
 
-Simple overview of use/purpose.
+Quantum error-correction codes address error problem by providing means to identify and correct corresponding errors. 
 
-## Description
+## INTRODUCTION: WHAT IS QUANTUM ERROR CORRECTION
 
-An in-depth paragraph about your project and overview of use.
+The concept of error correction is a central component of classical information theory, and similarly quantum error correction (QEC).
+Quantum states are very delicate and require error correction methods to make quantum computers more reliable.
+Classical error correction codes are not applicable to quantum computers as they may effect the quantum state.
+Quantum error correction allows us to untilize the great potential of quantum computers.
+
+## QUANTUM ERROR CORRECTION CHALLENGES
+1- Quantum computers face different types of errors than classical computers.
+2- Quantum information is very secure and cannot be duplicated.
+3- To reduce the loss of information, we have targeted detecting and correcting errors instead of mitigating possible errors.
+
+## ERROR CORRECTION CIRCUIT
+
+<img width="1235" alt="image" src="https://github.com/QuantumBootcampQEC/Quantum-Error-Correction/assets/26482897/aa86ebed-7956-42f7-bebe-a148fcb19d74">
+
+## RESULTS
+To test the code, have sent the message "0" for 1024 times and compared the results with and without applying the correction code
+<img width="1079" alt="image" src="https://github.com/QuantumBootcampQEC/Quantum-Error-Correction/assets/26482897/b1a7876b-cf1d-40bb-98de-e10cfa15aec9">
+
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* qiskit=0.45.1
+* qiskit-aer=0.13.1
+* numpy=1.24.3
+  
 
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
